@@ -1,4 +1,4 @@
-# sismurpsm
+# smurpsm
 Sistema de Monitoramento do Usuário da Rede de Proteção Social Municipal
 
 Requisitos:
